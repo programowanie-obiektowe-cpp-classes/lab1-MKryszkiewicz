@@ -8,11 +8,11 @@ class Wektor2D
     //Settery
         void setX(double var)
         {
-            x1=  var;
+            x1 =  var;
         }
         void setY(double var)
         {
-            x2=  var;
+            x2 =  var;
         }
     //Gettery    
         double getX()

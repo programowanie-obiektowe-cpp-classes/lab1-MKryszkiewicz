@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/mat/github-classroom/programowanie-obiektowe-cpp-classes/lab1-MKryszkiewicz/build",
+  "command": "/usr/bin/g++  -I/home/mat/github-classroom/programowanie-obiektowe-cpp-classes/lab1-MKryszkiewicz/include -g -o CMakeFiles/zal.dir/test.cpp.o -c /home/mat/github-classroom/programowanie-obiektowe-cpp-classes/lab1-MKryszkiewicz/test.cpp",
+  "file": "/home/mat/github-classroom/programowanie-obiektowe-cpp-classes/lab1-MKryszkiewicz/test.cpp"
+}
+]
