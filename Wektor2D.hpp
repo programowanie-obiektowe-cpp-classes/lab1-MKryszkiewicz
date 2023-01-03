@@ -39,7 +39,7 @@ class Wektor2D
             double tmp1, tmp2;
             tmp1 = prawy.x1;
             tmp1 *= this->x1;
-            tmp2= prawy.x2;
+            tmp2 = prawy.x2;
             tmp2 *= this->x2;
             return tmp1+tmp2;
         }
